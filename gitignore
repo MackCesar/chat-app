@@ -1,0 +1,29 @@
+# Binaries
+/chat-app
+
+# Build and cache directories
+/vendor/
+*.log
+*.out
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+
+# Go workspace file
+go.work
+
+# Local configuration
+*.local
+*.env
+
+# IDE and editor configurations
+.vscode/
+.idea/
+*.iml
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
